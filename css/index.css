@@ -1,0 +1,25 @@
+body{
+    overflow-x: hidden;
+}
+.contact{
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+}
+.errmsg{
+    color: red;
+    margin-top: 8px;
+    margin-bottom:2px;
+}
+.contact-form2{
+    background-color: rgb(239, 235, 235);
+    padding: 30px;
+    
+}
+.form-group{
+ margin-bottom: 15px;
+ padding-bottom: 10px;
+}
+.bold{
+    font-weight: bold;
+}
